@@ -11,6 +11,6 @@ package Test;
  */
 public class HolaMundo {
     public static void main(String[] args){
-        System.out.println("Hello World! BOM DIa!");
+        System.out.println("Whats Up World!");
     }
 }
